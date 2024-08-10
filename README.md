@@ -5,13 +5,13 @@
 Here's the updated version:
 
 🌱 I'm exploring cutting-edge technologies to enhance my expertise.  
-👯 I’m open to collaborating with fellow developers and tech enthusiasts.
+👯 I’m open to collaborating with fellow developers and tech enthusiasts.  
 🥅 Goal: Developing innovative solutions to make a positive impact.  
-⚡ Passionate about cricket and exploring new travel destinations in my free time.
+⚡ Passionate about cricket and exploring new travel destinations in my free time.  
 
 ![](https://komarev.com/ghpvc/?username=iamharis010&color=fb4362)
 
-### When I code, I rely on
+### My Development Toolkit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" />
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -66,12 +66,6 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <a href="https://www.buymeacoffee.com/iamharis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### My GitHub contributions summary
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamharis010&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharis&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/mohammad-haris-rajput/"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn"></a>
@@ -79,8 +73,12 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
   <a href="mailto:mohdharis010@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" alt="Gmail"></a>
 </p>
 
---------
+### My GitHub contributions summary
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamharis010&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
+![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharis&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+### My Go-To Development Tips
 [![laravel_repo]](https://github.com/iamharis010/laravel-resources)
 [![js_repo]](https://github.com/iamharis010/js-resources)
 
