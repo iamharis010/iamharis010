@@ -1,41 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mohammad Haris</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+## Hi 👋, I'm Mohammad Haris
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharis010&label=Profile%20views&color=0e75b6&style=flat" alt="iamharis010" /> </p>
+### I'm a Full stack Developer, Technology Entusiast!!!
 
-<p align="left"> <a href="https://twitter.com/iamharis010" target="blank"><img src="https://img.shields.io/twitter/follow/iamharis010?logo=twitter&style=for-the-badge" alt="iamharis010" /></a> </p>
+Here's the updated version:
 
-- 🔭 I’m currently working on **Laravel, React, Node, JavaScript, Tailwind**
+🌱 I'm exploring cutting-edge technologies to enhance my expertise.  
+👯 I’m open to collaborating with fellow developers and tech enthusiasts.
+🥅 Goal: Developing innovative solutions to make a positive impact.  
+⚡ Passionate about cricket and exploring new travel destinations in my free time.
 
-- 💬 Ask me about **Laravel, PHP, JavaScript, AWS**
+![](https://komarev.com/ghpvc/?username=iamharis010&color=fb4362)
 
-- 📫 Need any help? reach me **mohdharis010@gmail.com**
+### When I code, I rely on
+<p>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+    <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=websocket&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img alt="ViteJS" src="https://img.shields.io/badge/-ViteJS-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
 
-_____
-<a href="https://app.daily.dev/mohammadharis"><img align="right" src="https://api.daily.dev/devcards/bfd3230c929245579b6e8441e7972aa5.png?r=ldr" width="200" alt="Mohammad Haris's Dev Card"/></a>
+### My most recent articles
+<ul>
+    <li>
+        <a href="https://medium.com/@mohdharis010/mastering-geometry-polygons-in-mysql-part-3-guide-f52f89c18477">
+            <i>Mastering Geometry Polygons in MySQL: Part 3 Guide</i>
+        </a>
+    </li>
+    <li>
+        <a href="https://medium.com/@mohdharis010/mastering-geometry-polygons-in-mysql-part-2-guide-74b9216a27e8">
+            <i>Mastering Geometry Polygons in MySQL: Part 2 Guide</i>
+        </a>
+    </li>
+    <li>
+        <a href="https://medium.com/@mohdharis010/mastering-geometry-polygons-in-mysql-part-1-guide-5741047e1a75">
+            <i>Mastering Geometry Polygons in MySQL: Part 1 Guide</i>
+        </a>
+    </li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
 
-<a href="https://twitter.com/iamharis">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamharis?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> 
-</a>
-<a href="https://codepen.io/iamharis010">
-    <img alt="CodePen Follow" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen"> 
-</a>
-<a href="https://stackoverflow.com/users/6533379/muhammad-haris">
-    <img alt="Stack Overflow Follow" src="https://img.shields.io/badge/Stack Overflow-Checkout-F58025?style=for-the-badge&logo=stackoverflow"> 
-</a>
-<a href="https://dev.to/iamharis010">
-    <img alt="dev.to Follow" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto"> 
-</a>
+<a href="https://www.buymeacoffee.com/iamharis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### My GitHub contributions summary
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamharis010&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharis&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+### Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/mohammad-haris-rajput/"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn"></a>
+  <a href="https://twitter.com/iamharis010"><img src="https://skillicons.dev/icons?i=twitter" width="24" height="24" alt="Twitter"></a>
+  <a href="mailto:mohdharis010@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" alt="Gmail"></a>
+</p>
 
 --------
+
 [![laravel_repo]](https://github.com/iamharis010/laravel-resources)
 [![js_repo]](https://github.com/iamharis010/js-resources)
-
 
 [laravel_repo]: https://github-readme-stats.vercel.app/api/pin/?username=iamharis010&repo=laravel-resources&theme=swift
 [js_repo]: https://github-readme-stats.vercel.app/api/pin/?username=iamharis010&repo=js-resources&theme=slateorange
