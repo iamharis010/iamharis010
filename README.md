@@ -44,8 +44,42 @@ Here's the updated version:
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
     <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-2A2A2A?style=flat-square&logo=langchain&logoColor=white" />
+    <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-FF9900?style=flat-square&logo=anthropic&logoColor=white" />
+    <img alt="Codeium" src="https://img.shields.io/badge/-Codeium-313131?style=flat-square&logo=codeium&logoColor=white" />
     <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
     <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-262627?style=flat-square&logo=typeorm&logoColor=white" />
+    <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white" />
+    <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+    <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+    <img alt="Cheerio" src="https://img.shields.io/badge/-Cheerio-333333?style=flat-square&logo=cheerio&logoColor=white" />
+    <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    <img alt="Passport" src="https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=white" />
+    <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-1F3E5B?style=flat-square&logo=dbeaver&logoColor=white" />
+    <img alt="FFmpeg" src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+    <img alt="Formik" src="https://img.shields.io/badge/-Formik-212121?style=flat-square&logo=formik&logoColor=white" />
+    <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+    <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    <img alt="Google Maps" src="https://img.shields.io/badge/-Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img alt="Google Street View" src="https://img.shields.io/badge/-Google%20Street%20View-FFCC00?style=flat-square&logo=googlestreetview&logoColor=black" />
+    <img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" />
+    <img alt="PayPal" src="https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
+    <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+    <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+    <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon%20ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+    <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/-Amazon%20ElastiCache-FF9900?style=flat-square&logo=amazonelasticache&logoColor=white" />
+    <img alt="Amazon IAM" src="https://img.shields.io/badge/-Amazon%20IAM-FF9900?style=flat-square&logo=amazoniam&logoColor=white" />
+    <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+    <img alt="Amazon Route 53" src="https://img.shields.io/badge/-Amazon%20Route%2053-232F3E?style=flat-square&logo=amazonroute53&logoColor=white" />
+    <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+    <img alt="Amazon SQS" src="https://img.shields.io/badge/-Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" />
+    <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+    <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    <img alt="cPanel" src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+    <img alt="Curl" src="https://img.shields.io/badge/-Curl-07405E?style=flat-square&logo=curl&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+    <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+
 </p>
 
 ### My most recent articles
