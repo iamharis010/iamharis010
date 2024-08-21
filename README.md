@@ -2,8 +2,6 @@
 
 ### I'm a Full stack Developer, Technology Entusiast!!!
 
-Here's the updated version:
-
 🌱 I'm exploring cutting-edge technologies to enhance my expertise.  
 👯 I’m open to collaborating with fellow developers and tech enthusiasts.  
 🥅 Goal: Developing innovative solutions to make a positive impact.  
